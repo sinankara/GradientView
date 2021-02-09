@@ -13,6 +13,21 @@
 		6BDA46C925D273F1002EB204 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6BDA46C725D273F1002EB204 /* Main.storyboard */; };
 		6BDA46CB25D273F2002EB204 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6BDA46CA25D273F2002EB204 /* Assets.xcassets */; };
 		6BDA46CE25D273F2002EB204 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6BDA46CC25D273F2002EB204 /* LaunchScreen.storyboard */; };
+		6BDA46EA25D27452002EB204 /* isValidEmail + ext.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BDA46DA25D27452002EB204 /* isValidEmail + ext.swift */; };
+		6BDA46EB25D27452002EB204 /* Uzanti+UIView+Stack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BDA46DC25D27452002EB204 /* Uzanti+UIView+Stack.swift */; };
+		6BDA46EC25D27452002EB204 /* Uzanti+UITextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BDA46DD25D27452002EB204 /* Uzanti+UITextView.swift */; };
+		6BDA46ED25D27452002EB204 /* Uzantilar+UIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BDA46DE25D27452002EB204 /* Uzantilar+UIView.swift */; };
+		6BDA46EE25D27452002EB204 /* ImageViewAspectFill.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BDA46DF25D27452002EB204 /* ImageViewAspectFill.swift */; };
+		6BDA46EF25D27452002EB204 /* Uzanti+UITextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BDA46E025D27452002EB204 /* Uzanti+UITextField.swift */; };
+		6BDA46F025D27452002EB204 /* ImageViewAspectFit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BDA46E125D27452002EB204 /* ImageViewAspectFit.swift */; };
+		6BDA46F125D27452002EB204 /* Uzanti+UIButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BDA46E225D27452002EB204 /* Uzanti+UIButton.swift */; };
+		6BDA46F225D27452002EB204 /* Uzanti+UIStackView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BDA46E325D27452002EB204 /* Uzanti+UIStackView.swift */; };
+		6BDA46F325D27452002EB204 /* Uzanti+UILabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BDA46E425D27452002EB204 /* Uzanti+UILabel.swift */; };
+		6BDA46F425D27452002EB204 /* TextFieldIntend.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BDA46E525D27452002EB204 /* TextFieldIntend.swift */; };
+		6BDA46F525D27452002EB204 /* Uzanti+UIColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BDA46E625D27452002EB204 /* Uzanti+UIColor.swift */; };
+		6BDA46F625D27452002EB204 /* Bindeable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BDA46E725D27452002EB204 /* Bindeable.swift */; };
+		6BDA46F725D27452002EB204 /* Uzanti+Date.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BDA46E825D27452002EB204 /* Uzanti+Date.swift */; };
+		6BDA46F825D27452002EB204 /* OzelTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BDA46E925D27452002EB204 /* OzelTextField.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +39,21 @@
 		6BDA46CA25D273F2002EB204 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6BDA46CD25D273F2002EB204 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6BDA46CF25D273F2002EB204 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6BDA46DA25D27452002EB204 /* isValidEmail + ext.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "isValidEmail + ext.swift"; sourceTree = "<group>"; };
+		6BDA46DC25D27452002EB204 /* Uzanti+UIView+Stack.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Uzanti+UIView+Stack.swift"; sourceTree = "<group>"; };
+		6BDA46DD25D27452002EB204 /* Uzanti+UITextView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Uzanti+UITextView.swift"; sourceTree = "<group>"; };
+		6BDA46DE25D27452002EB204 /* Uzantilar+UIView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Uzantilar+UIView.swift"; sourceTree = "<group>"; };
+		6BDA46DF25D27452002EB204 /* ImageViewAspectFill.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ImageViewAspectFill.swift; sourceTree = "<group>"; };
+		6BDA46E025D27452002EB204 /* Uzanti+UITextField.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Uzanti+UITextField.swift"; sourceTree = "<group>"; };
+		6BDA46E125D27452002EB204 /* ImageViewAspectFit.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ImageViewAspectFit.swift; sourceTree = "<group>"; };
+		6BDA46E225D27452002EB204 /* Uzanti+UIButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Uzanti+UIButton.swift"; sourceTree = "<group>"; };
+		6BDA46E325D27452002EB204 /* Uzanti+UIStackView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Uzanti+UIStackView.swift"; sourceTree = "<group>"; };
+		6BDA46E425D27452002EB204 /* Uzanti+UILabel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Uzanti+UILabel.swift"; sourceTree = "<group>"; };
+		6BDA46E525D27452002EB204 /* TextFieldIntend.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TextFieldIntend.swift; sourceTree = "<group>"; };
+		6BDA46E625D27452002EB204 /* Uzanti+UIColor.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Uzanti+UIColor.swift"; sourceTree = "<group>"; };
+		6BDA46E725D27452002EB204 /* Bindeable.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Bindeable.swift; sourceTree = "<group>"; };
+		6BDA46E825D27452002EB204 /* Uzanti+Date.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Uzanti+Date.swift"; sourceTree = "<group>"; };
+		6BDA46E925D27452002EB204 /* OzelTextField.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OzelTextField.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,8 +93,39 @@
 				6BDA46CA25D273F2002EB204 /* Assets.xcassets */,
 				6BDA46CC25D273F2002EB204 /* LaunchScreen.storyboard */,
 				6BDA46CF25D273F2002EB204 /* Info.plist */,
+				6BDA46D925D27452002EB204 /* Faydali Dosyalar */,
 			);
 			path = GradientView;
+			sourceTree = "<group>";
+		};
+		6BDA46D925D27452002EB204 /* Faydali Dosyalar */ = {
+			isa = PBXGroup;
+			children = (
+				6BDA46DA25D27452002EB204 /* isValidEmail + ext.swift */,
+				6BDA46DB25D27452002EB204 /* UzantilarFS */,
+				6BDA46E625D27452002EB204 /* Uzanti+UIColor.swift */,
+				6BDA46E725D27452002EB204 /* Bindeable.swift */,
+				6BDA46E825D27452002EB204 /* Uzanti+Date.swift */,
+				6BDA46E925D27452002EB204 /* OzelTextField.swift */,
+			);
+			path = "Faydali Dosyalar";
+			sourceTree = "<group>";
+		};
+		6BDA46DB25D27452002EB204 /* UzantilarFS */ = {
+			isa = PBXGroup;
+			children = (
+				6BDA46DC25D27452002EB204 /* Uzanti+UIView+Stack.swift */,
+				6BDA46DD25D27452002EB204 /* Uzanti+UITextView.swift */,
+				6BDA46DE25D27452002EB204 /* Uzantilar+UIView.swift */,
+				6BDA46DF25D27452002EB204 /* ImageViewAspectFill.swift */,
+				6BDA46E025D27452002EB204 /* Uzanti+UITextField.swift */,
+				6BDA46E125D27452002EB204 /* ImageViewAspectFit.swift */,
+				6BDA46E225D27452002EB204 /* Uzanti+UIButton.swift */,
+				6BDA46E325D27452002EB204 /* Uzanti+UIStackView.swift */,
+				6BDA46E425D27452002EB204 /* Uzanti+UILabel.swift */,
+				6BDA46E525D27452002EB204 /* TextFieldIntend.swift */,
+			);
+			path = UzantilarFS;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -137,9 +198,24 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6BDA46EF25D27452002EB204 /* Uzanti+UITextField.swift in Sources */,
+				6BDA46F625D27452002EB204 /* Bindeable.swift in Sources */,
+				6BDA46F425D27452002EB204 /* TextFieldIntend.swift in Sources */,
+				6BDA46F525D27452002EB204 /* Uzanti+UIColor.swift in Sources */,
+				6BDA46EB25D27452002EB204 /* Uzanti+UIView+Stack.swift in Sources */,
+				6BDA46EE25D27452002EB204 /* ImageViewAspectFill.swift in Sources */,
 				6BDA46C625D273F1002EB204 /* ViewController.swift in Sources */,
+				6BDA46F225D27452002EB204 /* Uzanti+UIStackView.swift in Sources */,
+				6BDA46F725D27452002EB204 /* Uzanti+Date.swift in Sources */,
+				6BDA46F125D27452002EB204 /* Uzanti+UIButton.swift in Sources */,
 				6BDA46C225D273F1002EB204 /* AppDelegate.swift in Sources */,
+				6BDA46EC25D27452002EB204 /* Uzanti+UITextView.swift in Sources */,
+				6BDA46EA25D27452002EB204 /* isValidEmail + ext.swift in Sources */,
 				6BDA46C425D273F1002EB204 /* SceneDelegate.swift in Sources */,
+				6BDA46F825D27452002EB204 /* OzelTextField.swift in Sources */,
+				6BDA46F325D27452002EB204 /* Uzanti+UILabel.swift in Sources */,
+				6BDA46F025D27452002EB204 /* ImageViewAspectFit.swift in Sources */,
+				6BDA46ED25D27452002EB204 /* Uzantilar+UIView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
